@@ -164,11 +164,3 @@ SELECT
     COUNT(*) AS total_content
 FROM new_table
 GROUP BY 1
-
-
-
-
-
-
-
-
